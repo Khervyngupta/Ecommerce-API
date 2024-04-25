@@ -14,5 +14,5 @@ app.use('/products', require('./routes/products'));
 
 // starting the server
 app.listen(3000, function(){
-    console.log('API is live on http://localhost:3000/products');
+    console.log('API is live on the http://localhost:3000/products');
 });
